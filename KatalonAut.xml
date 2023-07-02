@@ -16,4 +16,9 @@
         <class name = "com.example.KatalonAut.Test3"/>
     </classes>
 </test>
+<test name = "Test3">
+    <classes>
+        <class name = "com.example.KatalonAut.Test4"/>
+    </classes>
+</test>
 </suite>
